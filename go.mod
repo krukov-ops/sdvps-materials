@@ -1,3 +1,3 @@
-module github.com/netology-code/sdvps-materials
+module github.com/krukov-ops/sdvps-materials
 
 go 1.16
